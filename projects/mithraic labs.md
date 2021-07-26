@@ -9,4 +9,3 @@ twitter: https://twitter.com/MithraicLabs
 logo: /img/mithraiclabs.svg
 status: open
 ---
-

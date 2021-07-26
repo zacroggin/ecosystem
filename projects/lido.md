@@ -9,4 +9,3 @@ twitter: https://twitter.com/lidofinance
 logo: /img/lido.svg
 status: open
 ---
-

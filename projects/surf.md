@@ -10,4 +10,4 @@ logo: /img/surf.svg
 status: open
 ---
 
-The simplest way to track your active investments and open liabilities on Serum. 
+The simplest way to track your active investments and open liabilities on Serum.

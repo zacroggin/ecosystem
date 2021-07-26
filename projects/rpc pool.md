@@ -5,7 +5,7 @@ date: 2021-07-25
 logline: "Fast and reliable Solana RPC"
 website: "https://www.rpcpool.com/"
 category: Infrastructure
-twitter: 
+twitter:
 logo: /img/rpcpool.svg
 status: open
 ---

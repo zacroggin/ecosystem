@@ -9,4 +9,3 @@ twitter: https://twitter.com/stackedcrypto
 logo: /img/stackedcrypto.svg
 status: open
 ---
-

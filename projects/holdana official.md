@@ -4,7 +4,7 @@ title: "Holdana Official"
 date: 2021-07-25
 logline: "Holdana is a community-driven token built on Solana Ecosystem. "
 website: "https://holdana.finance/"
-category: 
+category:
 twitter: https://twitter.com/HoldanaOfficial
 logo: /img/holdanaofficial.svg
 status: open

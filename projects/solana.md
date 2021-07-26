@@ -4,7 +4,7 @@ title: "Solana"
 date: 2021-07-25
 logline: "BLOCKCHAIN REBUILT FOR SCALE."
 website: "https://solana.com/"
-category: 
+category:
 twitter: https://twitter.com/solanalabs
 logo: /img/solana.svg
 status: open

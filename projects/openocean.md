@@ -9,4 +9,3 @@ twitter: @OpenOceanGlobal
 logo: /img/openocean.svg
 status: open
 ---
-

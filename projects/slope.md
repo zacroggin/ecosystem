@@ -9,4 +9,3 @@ twitter: https://twitter.com/slope_finance
 logo: /img/slope.svg
 status: open
 ---
-
