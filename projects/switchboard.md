@@ -15,5 +15,5 @@ dApps.
 <b>Website</b>: https://switchboard.xyz/ </br>
 <b>Twitter</b>: https://twitter.com/switchboardxyz </br>
 <b>Telegram</b>: http://telegram.switchboard.xyz </br>
-<b>Discord</b>: discord.switchboard.xyz </br>
+<b>Discord</b>: http://discord.switchboard.xyz </br>
 <b>Medium</b>: https://switchboardxyz.medium.com/ </br>
